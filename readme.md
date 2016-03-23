@@ -1,4 +1,4 @@
-# Larry Bird (Foremerly Jetpack Omnisearch)
+# Larry Bird (Formerly Jetpack Omnisearch)
 
 [GPL](http://www.gnu.org/licenses/gpl-2.0.html)
 
